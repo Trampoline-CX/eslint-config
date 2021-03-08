@@ -1,0 +1,14 @@
+{
+  "name": "@trampoline/eslint-config-packages",
+  "version": "0.0.1",
+  "description": "Shared ESLint Configs for Trampoline Projects",
+  "repository": "https://github.com/Trampoline-CX/eslint-config",
+  "author": "Trampoline",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/**"
+    ]
+  }
+}
