@@ -1,8 +1,9 @@
 {
   "name": "@trampoline/eslint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Trampoline",
   "license": "MIT",
+  "main": ".eslintrc.js",
   "files": [
     ".eslintrc.js"
   ],

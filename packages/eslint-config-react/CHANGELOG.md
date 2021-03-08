@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.3](https://github.com/Trampoline-CX/eslint-config/compare/@trampoline/eslint-config-react@0.0.2...@trampoline/eslint-config-react@0.0.3) (2021-03-08)
+
+
+### Bug Fixes
+
+* mark .eslintrc.js file as packages entry point ([a03dc20](https://github.com/Trampoline-CX/eslint-config/commit/a03dc2095d357d1ccf436d35d269be6b64f1eb6e))
+
+
+
+
+
 ## 0.0.2 (2021-03-08)
 
 **Note:** Version bump only for package @trampoline/eslint-config-react
