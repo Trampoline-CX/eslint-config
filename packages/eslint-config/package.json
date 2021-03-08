@@ -1,6 +1,6 @@
 {
   "name": "@trampoline/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Trampoline",
   "license": "MIT",
   "files": [
@@ -24,5 +24,6 @@
     "eslint": "^7.21.0",
     "eslint-plugin-import": "^2.22.1",
     "typescript": "^4.2.3"
-  }
+  },
+  "private": false
 }
