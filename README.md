@@ -5,3 +5,6 @@ Because a programmer may be wrong sometimes, even after taking some coffee :coff
 - [📋 ESLint Configurations List](#-eslint-configurations-list)
 
 ## 📋 ESLint Configurations List
+
+- [Basic Configuration `@trampoline/eslint-config`](packages/eslint-config/README.md)
+- [For React Projects `@trampoline/eslint-config-react`](packages/eslint-config-react/README.md)

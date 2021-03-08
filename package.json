@@ -10,5 +10,8 @@
     "packages": [
       "packages/**"
     ]
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
   }
 }
