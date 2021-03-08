@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "release": "lerna publish --conventional-commits"
+    "release": "lerna publish"
   },
   "workspaces": {
     "packages": [
