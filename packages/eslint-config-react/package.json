@@ -1,6 +1,6 @@
 {
   "name": "@trampoline/eslint-config-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Trampoline",
   "license": "MIT",
   "main": ".eslintrc.js",
@@ -18,7 +18,7 @@
     "typescript": ">=4.2"
   },
   "dependencies": {
-    "@trampoline/eslint-config": "^0.1.0"
+    "@trampoline/eslint-config": "^0.1.1"
   },
   "devDependencies": {
     "eslint": "^7.21.0",
