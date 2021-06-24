@@ -11,7 +11,7 @@ module.exports = {
     'react/display-name': 'off',
     'react/jsx-no-bind': 'error',
     'react/prop-types': 'off',
-    'react/self-closing-comp': 'off',
+    'react/self-closing-comp': 'error',
   },
   settings: {
     react: {
