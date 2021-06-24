@@ -1,5 +1,6 @@
 module.exports = {
-  extends: ['@trampoline', 'plugin:react/recommended'],
+  plugins: ['jsx-a11y'],
+  extends: ['@trampoline', 'plugin:react/recommended', 'plugin:jsx-a11y/recommended'],
   env: {
     es6: true,
     browser: true,
