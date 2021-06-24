@@ -12,7 +12,9 @@ module.exports = {
     'react/jsx-no-bind': 'error',
     'react/prop-types': 'off',
     'react/self-closing-comp': 'error',
-    'react/button-has-type': 'error'
+    'react/button-has-type': 'error',
+    'react/jsx-pascal-case': ['error', { allowNamespace: true }],
+    'react/jsx-no-useless-fragment': 'error',
   },
   settings: {
     react: {
