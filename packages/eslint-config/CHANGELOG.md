@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.2](https://github.com/Trampoline-CX/eslint-config/compare/@trampoline/eslint-config@0.1.1...@trampoline/eslint-config@0.1.2) (2021-06-24)
+
+**Note:** Version bump only for package @trampoline/eslint-config
+
+
+
+
+
+
 ## [0.1.1](https://github.com/Trampoline-CX/eslint-config/compare/@trampoline/eslint-config@0.1.0...@trampoline/eslint-config@0.1.1) (2021-06-15)
 
 **Note:** Version bump only for package @trampoline/eslint-config
