@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/Trampoline-CX/eslint-config/compare/@trampoline/eslint-config@0.1.3...@trampoline/eslint-config@0.2.0) (2021-07-14)
+
+
+### Features
+
+* **eslint-config:** add array-type rule to config .eslintrc ([1d38466](https://github.com/Trampoline-CX/eslint-config/commit/1d384661191ac03f90b11cc48ad1eeb9a36b7fba))
+
+
+
+
+
 ## [0.1.3](https://github.com/Trampoline-CX/eslint-config/compare/@trampoline/eslint-config@0.1.1...@trampoline/eslint-config@0.1.3) (2021-06-28)
 
 **Note:** Version bump only for package @trampoline/eslint-config
