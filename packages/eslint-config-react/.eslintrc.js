@@ -8,6 +8,7 @@ module.exports = {
     node: true,
   },
   rules: {
+    'react/jsx-curly-brace-presence': ['error', 'never'],
     'react/react-in-jsx-scope': 'off',
     'react/display-name': 'off',
     'react/jsx-no-bind': 'error',
