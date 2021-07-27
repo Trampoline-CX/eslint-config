@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/Trampoline-CX/eslint-config/compare/@trampoline/eslint-config-react@0.4.0...@trampoline/eslint-config-react@0.5.0) (2021-07-27)
+
+
+### Features
+
+* **eslint-config-react:** add rule for curly braces ([51b3bd9](https://github.com/Trampoline-CX/eslint-config/commit/51b3bd928fb315bd5b67e5aba60d2f602a9e18e4))
+
+
+
+
+
 # [0.4.0](https://github.com/Trampoline-CX/eslint-config/compare/@trampoline/eslint-config-react@0.3.0...@trampoline/eslint-config-react@0.4.0) (2021-07-14)
 
 **Note:** Version bump only for package @trampoline/eslint-config-react
