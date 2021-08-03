@@ -11,7 +11,7 @@ module.exports = {
     'react/jsx-curly-brace-presence': ['error', 'never'],
     'react/react-in-jsx-scope': 'off',
     'react/display-name': 'off',
-    'react/jsx-no-bind': 'error',
+    'react/jsx-no-bind': 'off',
     'react/prop-types': 'off',
     'react/self-closing-comp': 'error',
     'react/button-has-type': 'error',
