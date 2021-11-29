@@ -1,6 +1,6 @@
 {
   "name": "@trampoline/eslint-config",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "author": "Trampoline",
   "license": "MIT",
   "main": ".eslintrc.js",
@@ -17,8 +17,8 @@
     "typescript": ">=4.2"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.27.0",
-    "@typescript-eslint/parser": "^4.27.0",
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0",
     "eslint-config-prettier": "^8.3.0"
   },
   "devDependencies": {
