@@ -19,7 +19,7 @@ module.exports = {
     'arrow-body-style': ['error', 'as-needed'],
     'prefer-arrow-callback': 'error',
     'import/order': 'error',
-    'import/no-cycle': [2, { maxDepth: 10 }],
+    'import/no-cycle': ['error', { maxDepth: 10 }],
     '@typescript-eslint/array-type': [
       'error',
       {
