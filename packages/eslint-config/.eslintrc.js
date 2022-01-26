@@ -1,5 +1,4 @@
 module.exports = {
-  parser: '@typescript-eslint/parser',
   plugins: ['import', '@typescript-eslint'],
   extends: ['eslint:recommended', 'plugin:@typescript-eslint/recommended', 'prettier'],
   env: {
@@ -21,6 +20,7 @@ module.exports = {
     'prefer-arrow-callback': 'error',
     'import/order': 'error',
     'import/no-useless-path-segments': 'error',
+    'import/no-cycle': ['error', { maxDepth: 10 }],
     '@typescript-eslint/array-type': [
       'error',
       {
