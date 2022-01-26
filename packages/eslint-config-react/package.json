@@ -12,13 +12,10 @@
     "eslintconfig"
   ],
   "peerDependencies": {
-    "eslint": ">=7",
-    "eslint-plugin-import": ">=2.22.0",
-    "eslint-plugin-jsx-a11y": ">=6.4.0",
-    "eslint-plugin-react": ">=7.23",
     "typescript": ">=4.2"
   },
   "dependencies": {
+    "@rushstack/eslint-patch": "^1.1.0",
     "@trampoline/eslint-config": "^0.2.3"
   },
   "devDependencies": {
