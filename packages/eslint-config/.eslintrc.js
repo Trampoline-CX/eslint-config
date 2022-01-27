@@ -3,12 +3,7 @@ require('@rushstack/eslint-patch/modern-module-resolution')
 module.exports = {
   parser: '@typescript-eslint/parser',
   plugins: ['import', '@typescript-eslint'],
-  extends: [
-    '@trampoline/eslint-config',
-    'eslint:recommended',
-    'plugin:@typescript-eslint/recommended',
-    'prettier',
-  ],
+  extends: ['eslint:recommended', 'plugin:@typescript-eslint/recommended', 'prettier'],
   env: {
     es6: true,
     browser: true,
