@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0-alpha.0](https://github.com/Trampoline-CX/eslint-config/compare/@trampoline/eslint-config-react@0.5.2...@trampoline/eslint-config-react@1.0.0-alpha.0) (2022-01-31)
+
+
+### Bug Fixes
+
+* address comments ([9acdcec](https://github.com/Trampoline-CX/eslint-config/commit/9acdcec513a37fab8ae64650b9e9b4931508f18e))
+* remove peer deps/plugins ([40dcb02](https://github.com/Trampoline-CX/eslint-config/commit/40dcb024b269abb8610729449db29855ad10a1c9))
+
+
+### Features
+
+* **all:** add support for @rushstack/eslint-patch ([c2a8035](https://github.com/Trampoline-CX/eslint-config/commit/c2a803572c2a604f2920ffa52f11db94a41f8310))
+
+
+
+
+
 ## [0.5.2](https://github.com/Trampoline-CX/eslint-config/compare/@trampoline/eslint-config-react@0.5.1...@trampoline/eslint-config-react@0.5.2) (2021-11-29)
 
 **Note:** Version bump only for package @trampoline/eslint-config-react
