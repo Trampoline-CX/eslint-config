@@ -1,3 +1,5 @@
+require('@rushstack/eslint-patch/modern-module-resolution')
+
 module.exports = {
   plugins: ['jsx-a11y'],
   extends: ['@trampoline', 'plugin:react/recommended', 'plugin:jsx-a11y/recommended'],
