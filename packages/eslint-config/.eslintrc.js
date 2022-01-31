@@ -1,3 +1,5 @@
+require('@rushstack/eslint-patch/modern-module-resolution')
+
 module.exports = {
   plugins: ['import', '@typescript-eslint'],
   extends: ['eslint:recommended', 'plugin:@typescript-eslint/recommended', 'prettier'],
