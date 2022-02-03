@@ -109,7 +109,16 @@ module.exports = {
     'unicorn/consistent-function-scoping': 'error',
     'unicorn/error-message': 'error',
     'unicorn/expiring-todo-comments': 'error',
-    'unicorn/filename-case': 'error',
+    'unicorn/filename-case': [
+      'error',
+      {
+        cases: {
+          kebabCase: true,
+          camelCase: true,
+          pascalCase: true,
+        },
+      },
+    ],
     'unicorn/no-array-push-push': 'error',
     'unicorn/no-document-cookie': 'error',
     'unicorn/no-empty-file': 'error',
