@@ -12,6 +12,6 @@ Because a programmer may be wrong sometimes, even after taking some coffee :coff
 # Publish a new version
 
 ```bash
-yarn version
+yarn update-versions <major|minor|prerelease>
 yarn release
 ```
