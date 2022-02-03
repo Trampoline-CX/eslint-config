@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "release": "yarn publish"
+    "release": "yarn npm publish --access public"
   },
   "workspaces": {
     "packages": [
