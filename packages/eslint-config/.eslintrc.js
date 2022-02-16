@@ -21,6 +21,7 @@ module.exports = {
     'arrow-body-style': ['error', 'as-needed'],
     'prefer-arrow-callback': 'error',
     'import/order': 'error',
+    'import/newline-after-import': 'error',
     'import/no-relative-packages': 'error',
     'import/no-useless-path-segments': 'error',
     'import/no-cycle': ['error', { maxDepth: 10 }],
