@@ -81,6 +81,12 @@ module.exports = {
         },
       },
     ],
+    '@typescript-eslint/consistent-type-definitions': ['error', 'interface'],
+    '@typescript-eslint/consistent-type-exports': [
+      'error',
+      { fixMixedExportsWithInlineTypeSpecifier: true },
+    ],
+    '@typescript-eslint/consistent-type-imports': 'error',
     '@typescript-eslint/explicit-function-return-type': ['warn', { allowExpressions: true }],
     '@typescript-eslint/no-empty-interface': [
       'error',
