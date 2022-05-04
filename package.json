@@ -8,7 +8,8 @@
   "private": true,
   "scripts": {
     "update-versions": "yarn workspaces foreach --no-private version",
-    "release": "yarn workspaces foreach --no-private npm publish --access public"
+    "release": "yarn workspaces foreach --no-private npm publish --access public",
+    "postinstall": "husky install"
   },
   "workspaces": {
     "packages": [
@@ -16,14 +17,21 @@
     ]
   },
   "devDependencies": {
-    "@commitlint/cli": "12.1.4",
-    "@commitlint/config-conventional": "12.1.4",
-    "husky": "5.2.0"
+    "@commitlint/cli": "16.2.4",
+    "@commitlint/config-conventional": "16.2.4",
+    "husky": "7.0.4",
+    "lint-staged": "12.4.1",
+    "prettier": "2.5.1"
   },
   "husky": {
     "hooks": {
       "commit-msg": "commitlint --edit"
     }
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,md,html,css}": [
+      "prettier --write"
+    ]
   },
   "packageManager": "yarn@3.1.1"
 }
