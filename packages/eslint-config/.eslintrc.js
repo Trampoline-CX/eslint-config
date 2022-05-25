@@ -24,7 +24,7 @@ module.exports = {
     'import/newline-after-import': 'error',
     'import/no-relative-packages': 'error',
     'import/no-useless-path-segments': 'error',
-    'import/no-cycle': ['error', { maxDepth: 10 }],
+    // 'import/no-cycle': ['error', { maxDepth: 10 }], // Replaced by circular dependency checks by Madge (@see https://www.npmjs.com/package/madge)
     '@typescript-eslint/array-type': [
       'error',
       {
