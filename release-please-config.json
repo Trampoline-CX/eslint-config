@@ -1,4 +1,8 @@
 {
   "bootstrap-sha": "51c6a3e000823a1b6c266b2a4b597b20e7e63a43",
-  "plugins": ["node-workspace"]
+  "plugins": ["node-workspace"],
+  "packages": {
+    "packages/eslint-config": {},
+    "packages/eslint-config-react": {}
+  }
 }
