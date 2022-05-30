@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "bootstrap-sha": "21285b0be103851e4f6d452760acae6ecfa80616",
+    "plugins": ["node-workspace"],
+    "./packages/eslint-config": {},
+    "./packages/eslint-config-react": {}
+  }
+}

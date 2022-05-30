@@ -1,0 +1,4 @@
+{
+  "./packages/eslint-config": "1.0.0-alpha.0",
+  "./packages/eslint-config-react": "1.0.0-alpha.0"
+}
