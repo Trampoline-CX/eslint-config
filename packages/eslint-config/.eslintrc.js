@@ -86,7 +86,7 @@ module.exports = {
       'error',
       { fixMixedExportsWithInlineTypeSpecifier: true },
     ],
-    // '@typescript-eslint/consistent-type-imports': 'error', // Waiting for inline imports support
+    '@typescript-eslint/consistent-type-imports': ['error', { fixStyle: 'inline-type-imports' }],
     '@typescript-eslint/explicit-function-return-type': ['warn', { allowExpressions: true }],
     '@typescript-eslint/no-empty-interface': [
       'error',
