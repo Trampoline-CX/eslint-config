@@ -18,7 +18,7 @@
     "@trampoline/eslint-config": "workspace:*",
     "eslint": "8.31.0",
     "eslint-plugin-jsx-a11y": "6.7.0",
-    "eslint-plugin-react": "7.31.11"
+    "eslint-plugin-react": "7.32.0"
   },
   "devDependencies": {
     "typescript": "4.9.4"
