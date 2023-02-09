@@ -100,9 +100,11 @@ module.exports = {
       { functions: false, classes: false, variables: false },
     ],
     '@typescript-eslint/no-unused-vars': [
-      'warn', // Very important rule, but putting it as error is not great for dev UX in VS Code.
+      'error',
       {
         argsIgnorePattern: '^_',
+        destructuredArrayIgnorePattern: '^_',
+        ignoreRestSiblings: true
       },
     ],
     'no-console': [
