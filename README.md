@@ -12,6 +12,11 @@ Because a programmer may be wrong sometimes, even after taking some coffee :coff
 # Publish a new version
 
 ```bash
-yarn update-versions <major|minor|prerelease>
+# Production release
+yarn update-versions <major|minor>
 yarn release
+
+# Beta release
+yarn update-versions prerelease
+yarn release --tag beta
 ```
