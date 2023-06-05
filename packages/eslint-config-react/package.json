@@ -16,11 +16,11 @@
   },
   "dependencies": {
     "@trampoline/eslint-config": "workspace:*",
-    "eslint": "8.41.0",
+    "eslint": "8.42.0",
     "eslint-plugin-jsx-a11y": "6.7.1",
     "eslint-plugin-react": "7.32.2"
   },
   "devDependencies": {
-    "typescript": "5.0.4"
+    "typescript": "5.1.3"
   }
 }
