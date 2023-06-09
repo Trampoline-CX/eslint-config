@@ -12,7 +12,7 @@
     "eslintconfig"
   ],
   "peerDependencies": {
-    "typescript": ">=4.2"
+    "typescript": ">=5"
   },
   "dependencies": {
     "@trampoline/eslint-config": "workspace:*",
