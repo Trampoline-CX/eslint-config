@@ -337,10 +337,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rushstack/eslint-patch@npm:1.5.1":
-  version: 1.5.1
-  resolution: "@rushstack/eslint-patch@npm:1.5.1"
-  checksum: 8/e4c25322312dbaa29e835a7ab4fbac53c8731dd0da65e46646e38945e296429e7fb91c2ef3da5af5d5938d44b0cde1d5290438ebb3dcb015e02b80b5e2530d24
+"@rushstack/eslint-patch@npm:1.6.0":
+  version: 1.6.0
+  resolution: "@rushstack/eslint-patch@npm:1.6.0"
+  checksum: 623fcc4637193864f1c90185b32a4d55d4e4408604cf7f927f445bdb08e7ec4396eb7a6b9a528d474b9f2c7363a08366d1a26cd50ea0ba18dd0083f7224f0042
   languageName: node
   linkType: hard
 
@@ -374,7 +374,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@trampoline/eslint-config@workspace:packages/eslint-config"
   dependencies:
-    "@rushstack/eslint-patch": "npm:1.5.1"
+    "@rushstack/eslint-patch": "npm:1.6.0"
     "@typescript-eslint/eslint-plugin": "npm:6.12.0"
     "@typescript-eslint/parser": "npm:6.12.0"
     eslint: "npm:8.54.0"
