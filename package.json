@@ -8,7 +8,7 @@
   "private": true,
   "scripts": {
     "update-versions": "yarn workspaces foreach --all --no-private version",
-    "release": "yarn workspaces foreach --no-private npm publish --access public",
+    "release": "yarn workspaces foreach --all --no-private npm publish --access public",
     "postinstall": "husky install"
   },
   "workspaces": {
