@@ -1,6 +1,6 @@
 {
   "name": "@trampoline/eslint-config",
-  "version": "1.7.1-0",
+  "version": "1.8.0",
   "author": "Trampoline",
   "license": "MIT",
   "main": ".eslintrc.js",
@@ -25,6 +25,5 @@
   },
   "devDependencies": {
     "typescript": "5.3.2"
-  },
-  "stableVersion": "1.7.0"
+  }
 }
