@@ -16,8 +16,8 @@
   },
   "dependencies": {
     "@rushstack/eslint-patch": "1.10.3",
-    "@typescript-eslint/eslint-plugin": "7.9.0",
-    "@typescript-eslint/parser": "7.9.0",
+    "@typescript-eslint/eslint-plugin": "7.10.0",
+    "@typescript-eslint/parser": "7.10.0",
     "eslint": "9.2.0",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-import": "2.29.1",
