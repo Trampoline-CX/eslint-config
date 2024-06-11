@@ -1,6 +1,6 @@
 {
   "name": "@trampoline/eslint-config-react",
-  "version": "1.8.1-0",
+  "version": "1.8.1-1",
   "author": "Trampoline",
   "license": "MIT",
   "main": ".eslintrc.js",
