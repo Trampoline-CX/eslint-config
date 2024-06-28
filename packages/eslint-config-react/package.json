@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@trampoline/eslint-config": "workspace:*",
-    "eslint": "9.5.0",
+    "eslint": "9.6.0",
     "eslint-plugin-jsx-a11y": "6.9.0",
     "eslint-plugin-react": "7.34.3"
   },
