@@ -360,7 +360,7 @@ __metadata:
   dependencies:
     "@commitlint/cli": "npm:19.5.0"
     "@commitlint/config-conventional": "npm:19.5.0"
-    husky: "npm:9.1.5"
+    husky: "npm:9.1.6"
     lint-staged: "npm:15.2.10"
     prettier: "npm:3.3.3"
   languageName: unknown
@@ -373,7 +373,7 @@ __metadata:
     "@trampoline/eslint-config": "workspace:*"
     eslint: "npm:9.10.0"
     eslint-plugin-jsx-a11y: "npm:6.10.0"
-    eslint-plugin-react: "npm:7.35.2"
+    eslint-plugin-react: "npm:7.36.0"
     typescript: "npm:5.6.2"
   peerDependencies:
     typescript: ">=5"
@@ -1557,9 +1557,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-react@npm:7.35.2":
-  version: 7.35.2
-  resolution: "eslint-plugin-react@npm:7.35.2"
+"eslint-plugin-react@npm:7.36.0":
+  version: 7.36.0
+  resolution: "eslint-plugin-react@npm:7.36.0"
   dependencies:
     array-includes: "npm:^3.1.8"
     array.prototype.findlast: "npm:^1.2.5"
@@ -1581,7 +1581,7 @@ __metadata:
     string.prototype.repeat: "npm:^1.0.0"
   peerDependencies:
     eslint: ^3 || ^4 || ^5 || ^6 || ^7 || ^8 || ^9.7
-  checksum: 10c0/5f891f5a77e902a0ca8d10b23d0b800e90a09400187febe5986c5078d6277baa4b974d6acdbba25baae065dbcf12eb9241b5f5782527d0780314c2ee5006a8af
+  checksum: 10c0/001e634fee12afca8e1f15a1b6c2e5e9a2db137a4f59f21c1ad2e4b3b7ba708f1be92a559c5d6f9e7e2e0dd0ca709e3d91ecc0e96442cc1e200d2a4b1725423c
   languageName: node
   linkType: hard
 
@@ -2095,12 +2095,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"husky@npm:9.1.5":
-  version: 9.1.5
-  resolution: "husky@npm:9.1.5"
+"husky@npm:9.1.6":
+  version: 9.1.6
+  resolution: "husky@npm:9.1.6"
   bin:
     husky: bin.js
-  checksum: 10c0/f42efb95a026303eb880898760f802d88409780dd72f17781d2dfc302177d4f80b641cf1f1694f53f6d97c536c7397684133d8c8fe4a4426f7460186a7d1c6b8
+  checksum: 10c0/705673db4a247c1febd9c5df5f6a3519106cf0335845027bb50a15fba9b1f542cb2610932ede96fd08008f6d9f49db0f15560509861808b0031cdc0e7c798bac
   languageName: node
   linkType: hard
 
