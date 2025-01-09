@@ -21,7 +21,7 @@
     "eslint-plugin-react": "7.37.3"
   },
   "devDependencies": {
-    "typescript": "5.7.2"
+    "typescript": "5.7.3"
   },
   "stableVersion": "1.8.0"
 }
