@@ -20,7 +20,7 @@
     "@commitlint/cli": "19.8.1",
     "@commitlint/config-conventional": "19.8.1",
     "husky": "9.1.7",
-    "lint-staged": "16.1.6",
+    "lint-staged": "16.2.1",
     "prettier": "3.6.2"
   },
   "husky": {
@@ -33,5 +33,5 @@
       "prettier --write"
     ]
   },
-  "packageManager": "yarn@4.10.0"
+  "packageManager": "yarn@4.10.3"
 }
